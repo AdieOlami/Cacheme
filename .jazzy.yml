@@ -1,0 +1,8 @@
+author: Adie Olalekan
+author_url: https://twitter.com/AdieOlami
+github_url: https://github.com/AdieOlami/Cacheme
+root_url: https://AdieOlami.github.io/Cacheme/
+module: Cacheme
+output: docs
+theme: fullwidth
+xcodebuild_arguments: [-workspace, 'Cacheme.xcworkspace', -scheme, 'Cacheme-iOS']
